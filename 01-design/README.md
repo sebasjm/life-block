@@ -18,3 +18,7 @@ http://www.evilmadscientist.com/2012/basics-open-collector-outputs/
 http://www.electroschematics.com/4843/1-hz-pulse-generator/
 
 
+Schematic
+---
+
+<img src="https://rawgit.com/sebasjm/life-block/master/01-design/schematic.svg" />
